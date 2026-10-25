@@ -1,0 +1,53 @@
+export const artistData = {
+  name: "SUBEKI",
+  alias: "BEKI",
+  birth: "Tulungagung, 10 Juli 1971",
+  address: "Desa Dermo, Kec. Benjeng, Gresik, Jawa Timur",
+  phone: "081 230 090 773",
+  whatsapp: "6281230090773",
+  email: "subekiart@gmail.com",
+  profileImage: "/images/profile/beki.jpg",
+  shortBio:
+    "Perupa dan pendidik seni rupa kelahiran Tulungagung yang menetap dan berkarya di Gresik, Jawa Timur. Karyanya mengeksplorasi dinamika ekspresi abstrak, idiom lokal Nusantara, hingga eksplorasi garis dan gaya minimalis.",
+  periodNotes: [
+    {
+      period: "2007 - 2008",
+      note: "Masih dalam emosi dan semangat yang tinggi, sangat menikmati berkarya ekspresif. Pada akhir tahun 2008, idealisme mulai beradaptasi dengan gelombang minimalis dan memasukkan idiom lokal seperti figur wayang.",
+    },
+    {
+      period: "2009 - 2013",
+      note: "Masa booming gaya minimalis yang memberikan pengaruh kuat pada komposisi objek tunggal maupun sketsa kerumunan bertema keseharian siswa.",
+    },
+  ],
+  education: [
+    { year: "1992", institution: "SMSR Negeri Surabaya" },
+    { year: "1998", institution: "Seni Rupa IKIP Negeri Surabaya" },
+  ],
+  awards: [
+    { year: "1992", title: "PRATIKTA ADHIKARYA (Karya Akhir Terbaik SMSR Surabaya)" },
+    { year: "1996", title: "Piala PAKSIS (Karya Terbaik Mahasiswa IKIP Surabaya)" },
+    { year: "2008", title: "Nominasi Karya Guru Seni Budaya Tingkat Nasional (PPPG Jogja)" },
+    { year: "2010", title: "Nominasi Karya Guru Seni Budaya Tingkat Nasional (PPPG Jogja)" },
+    { year: "2016", title: "Nominasi Karya Guru Seni Budaya Tingkat Nasional (Galeri Nasional)" },
+  ],
+  exhibitions: [
+    { year: "2016", title: "Pameran “ALUR” Karya Guru Seni Budaya Indonesia, Gedung DIKBUD Jakarta" },
+    { year: "2015", title: "Pameran “Art Chipelago” Seni Rupa Nusantara, Galeri Nasional Indonesia" },
+    { year: "2015", title: "Pameran Gresik Dalam Bingkai, Gedung WEP, Gresik Jawa Timur" },
+    { year: "2011", title: "Pameran Karya Guru Jawa Timur, Taman Budaya Jawa Timur" },
+    { year: "2010", title: "Pameran Indonesia Art Awards For Teacher II, PPPG Yogyakarta" },
+    { year: "2008", title: "Pameran Indonesia Art Awards For Teacher, PPPG Yogyakarta" },
+    { year: "2008", title: "Pameran Mengalir, DKS (Galeri Seni Surabaya)" },
+    { year: "2008", title: "Pameran Djoempa Malioboro 4, Taman Budaya Jawa Timur" },
+    { year: "2007", title: "Pameran Putih dalam Hitam, DKS Surabaya" },
+    { year: "2007", title: "Pameran Bang Wetan, Spirit for Indonesia, Balai Pemuda Surabaya" },
+    { year: "2007", title: "Pameran Bang Wetan, Spirit for Indonesia, Galeri Cipta, TIM, Jakarta" },
+    { year: "1996", title: "Pameran Kelompok Barak II, Museum Mpu Tantular, Surabaya" },
+    { year: "1994", title: "Pameran Kelompok Barak I, DKS, Surabaya" },
+    { year: "1993", title: "Pameran Temu Mahasiswa, Taman Budaya Surakarta" },
+    { year: "1992", title: "Pameran Kelompok Pijar Surabaya & Jogja, di DKS Surabaya" },
+    { year: "1991", title: "Pameran Guru dan Siswa, BII Surabaya" },
+    { year: "1990", title: "Pameran Safari Remaja Berprestasi Nasional, Jawa-Bali" },
+    { year: "1989", title: "Pameran Sketsa di Taman Remaja Surabaya" },
+  ],
+};
